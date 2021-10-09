@@ -1,24 +1,14 @@
-# text
+<!--
+ * @Author: your name
+ * @Date: 2021-09-07 10:52:55
+ * @LastEditTime: 2021-09-07 15:41:35
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \text\README.md
+-->
+#笔记
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##脚手架文件结构：
+|——node_modiles
+|——public
+|  |——favicon.ico:
